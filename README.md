@@ -1,9 +1,6 @@
 
 Olá, eu sou o Thiago Ferreira um apreciador de programação e tecnologia!
 
-Desenvolvo atualmente porém ainda não trabalho na área de programação.
-
-É um prazer receber você aqui no meu perfil.
 <div align="center">
   <a href="https://github.com/ThiagoDVult">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=ThiagoDVult&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
